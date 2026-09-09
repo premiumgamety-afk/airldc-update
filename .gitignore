@@ -1,0 +1,35 @@
+# Зависимости
+node_modules/
+src-tauri/target/
+
+# Сборки
+dist/
+*.exe
+*.msi
+*.deb
+*.dmg
+*.app
+
+# Ключи подписи
+*.key
+*.pem
+*.priv
+
+# Логи
+*.log
+*.tmp
+
+# Системные
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Временные файлы
+*.tmp
+*.temp
